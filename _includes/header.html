@@ -1,0 +1,14 @@
+<header>
+    <h1>MoonBeam <span>co,ltd</span></h1>
+    <nav>
+        <ul>
+            {% for name in site.pages %}
+                {% if name.title %}
+                    <li>
+                        <a href={{ name.url }} {% if page.url == name.url %}style="border-bottom: 2px dashed red"{% endif %}>{{ name.title }}</a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </nav>
+</header>
