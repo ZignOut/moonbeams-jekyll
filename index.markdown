@@ -4,10 +4,12 @@
 
 layout: page
 ---
+
 <div class="logos">
     <p>သင်တို့ကြိုက်နှစ်သက်ရာ <span>design</span> များကို ကျွန်ုပ်တို့ moonbeam construction မှတာဝန်ယူဆောက်လုပ်ပေး လျက်ရှိပါတယ်။<br>
     တည်ဆောက်ပီး အဆောက်အဦးများကိုလဲ လူကြီးမင်းတို့ စိတ်တိုင်းကျသည်အထိ <span>decoration</span> အလှဆင်ပေးနေပါသည်။</p>
     <div class="punch_line">"သင့်ရဲ့ အနာဂတ်များကို moonbeam နဲ့အတူတည်ဆောက် လိုက်ပါ။"</div>
+
     <div class="services">
         <div class="service">
             <i class="fas fa-ruler-combined"></i>
