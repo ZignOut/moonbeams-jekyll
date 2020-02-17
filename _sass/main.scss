@@ -3,6 +3,9 @@ body {
   margin: auto;
   width: 80%;
   font-family: "Padauk", sans-serif;
+  a, a:active, a:focus{
+    outline: none;
+  }
 }
 hr{
   color: grey;

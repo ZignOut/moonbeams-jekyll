@@ -15,12 +15,12 @@ permalink: /contact/
         <img src="/assets/images/DawEiEiTha.jpg" alt="DawEiEiTha">
         Daw Ei Ei Tha <br>
         Managing Director <br>
-        +959960562220
+        +959960562225
     </div>
     <div class="card">
         <img src="/assets/images/DawMaySuHlaing.jpg" alt="DawMaySuHlaing">
         Daw May Su Hlaing <br>
         Director <br>
-        +959960562220
+        +959684997624
     </div>
 </div>
